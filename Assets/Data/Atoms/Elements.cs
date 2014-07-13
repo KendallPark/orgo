@@ -3,18 +3,19 @@ using System.Collections;
 
 namespace Elements {
 
-  public class Element {
+  public class Atom {
 
     private Element element;
     public float radius;
     public string symbol;
     public Color modelColor;
+    public float x, y, z;
 
-    public Element() {
+    public Atom() {
 
     }
 
-    public Element(string symbol) {
+    public Atom(string symbol) {
       switch (symbol) {
         case "h":
           element = new Hydrogen();
@@ -48,6 +49,19 @@ namespace Elements {
       symbol = element.symbol;
       modelColor = element.modelColor;
     }
+
+    public Atom(string symbol, float x, float y, float z) : this(symbol) {
+      this.x = x;
+      this.y = y;
+      this.z = z;
+    }
+
+  }
+
+  public class Element {
+    public float radius;
+    public string symbol;
+    public Color modelColor;
   }
 
   public class Hydrogen : Element {
