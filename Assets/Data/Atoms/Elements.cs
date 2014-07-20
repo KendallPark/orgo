@@ -10,6 +10,7 @@ namespace Elements {
     public string symbol;
     public Color modelColor;
     public float x, y, z;
+    public GameObject ball;
 
     public Atom() {
 
@@ -50,10 +51,19 @@ namespace Elements {
       modelColor = element.modelColor;
     }
 
-    public Atom(string symbol, float x, float y, float z) : this(symbol) {
+    public Atom(string symbol, float x, float y, float z, GameObject parent) : this(symbol) {
       this.x = x;
       this.y = y;
       this.z = z;
+
+      Carbon carbon = new Carbon();
+      float atomScale = radius / carbon.radius;
+
+      ball = GameObject.CreatePrimitive(PrimitiveType.Sphere);
+      ball.transform.parent = parent.transform;
+      ball.transform.position = new Vector3(x, y, z);
+      ball.transform.localScale = new Vector3(atomScale, atomScale, atomScale);
+      ball.renderer.material.color = modelColor;
     }
 
   }

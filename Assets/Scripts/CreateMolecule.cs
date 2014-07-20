@@ -4,44 +4,61 @@ using System.Collections.Generic;
 using SimpleJSON;
 using System.IO;
 using Elements;
+using Bonds;
 
 public class CreateMolecule : MonoBehaviour {
 
   public float yAdjust;
   public TextAsset compoundData;
-  private Atom[] atomArray;
+  private Atom[] atoms;
+  private Bond[] bonds;
 
   // Use this for initialization
   void Start () {
 
-    GameObject cylinder = GameObject.CreatePrimitive(PrimitiveType.Cylinder);
-    atomArray = new Atom[100];
+    CreateAtoms();
 
-    print(compoundData.text);
-    var compound = JSON.Parse(compoundData.text);
-    JSONNode atoms = compound["structure"]["atoms"];
-    Atom carbon = new Atom("c");
-
-    int i = 0;
-    foreach (JSONNode atom in atoms.Childs) {
-      string elementSymbol = atom["element"].Value;
-      Atom element = new Atom(elementSymbol);
-      atomArray[i] = element;
-      float atomScale = element.radius / carbon.radius;
-
-      GameObject ball = GameObject.CreatePrimitive(PrimitiveType.Sphere);
-      ball.transform.parent = gameObject.transform;
-      ball.transform.position = new Vector3(atom["x"].AsFloat, atom["y"].AsFloat + yAdjust, atom["z"].AsFloat);
-      ball.transform.localScale = new Vector3(atomScale, atomScale, atomScale);
-      ball.renderer.material.color = element.modelColor;
-      
-      i++;
-    }
+    CreateBonds();
 
   }
   
   // Update is called once per frame
   void Update () {
   
+  }
+
+  private void CreateBonds() {
+    bonds = new Bond[100];
+
+    var compound = JSON.Parse(compoundData.text);
+    JSONNode jsonBonds = compound["structure"]["bonds"];
+
+    int j = 0;
+    foreach (JSONNode jsonBond in jsonBonds.Childs) {
+      Atom atom1 = atoms[jsonBond["vertices"].AsArray[0].AsInt];
+      Atom atom2 = atoms[jsonBond["vertices"].AsArray[1].AsInt];
+      string bondOrder = jsonBond["order"].Value;
+
+      Bond bond = new Bond(atom1, atom2, bondOrder);
+      bonds[jsonBond["bid"].AsInt] = bond;
+
+      j++;
+    }
+  }
+
+  private void CreateAtoms() {
+    atoms = new Atom[100];
+
+    var compound = JSON.Parse(compoundData.text);
+    JSONNode jsonAtoms = compound["structure"]["atoms"];
+
+    int i = 0;
+    foreach (JSONNode jsonAtom in jsonAtoms.Childs) {
+      string elementSymbol = jsonAtom["element"].Value;
+      Atom atom = new Atom(elementSymbol, jsonAtom["x"].AsFloat, jsonAtom["y"].AsFloat + yAdjust, jsonAtom["z"].AsFloat, gameObject);
+      atoms[jsonAtom["aid"].AsInt] = atom;
+      
+      i++;
+    }
   }
 }
