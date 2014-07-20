@@ -50,6 +50,7 @@
      <None Include="Assets\Qualcomm Augmented Reality\Shaders\VertexLitWithZ.shader" />
      <None Include="Assets\Qualcomm Augmented Reality\Shaders\RenderVideoBackground.shader" />
      <None Include="Assets\readme_SDK.txt" />
+     <None Include="Assets\StreamingAssets\QCAR\orgotargets.xml" />
      <None Include="Assets\Plugins\Android\AndroidManifest.xml" />
      <None Include="Assets\Editor\QCAR\WebcamProfiles\profiles.xml" />
      <None Include="Assets\Qualcomm Augmented Reality\Shaders\DepthMask.shader" />
