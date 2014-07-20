@@ -1,8 +1,7 @@
 using UnityEngine;
 using System.Collections;
-using Elements;
 
-namespace Bonds {
+namespace Compounds {
 
   public class Bond {
 
