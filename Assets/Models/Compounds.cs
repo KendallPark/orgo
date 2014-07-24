@@ -12,11 +12,9 @@ namespace Compounds {
     private Bond[] bonds;
     private JSONNode compoundData;
     private GameObject parentGameObject;
-    private float yAdjust;
 
     public Compound(JSONNode compoundData) {
       this.compoundData = compoundData;
-      this.yAdjust = yAdjust;
       CreateAtoms();
       CreateBonds();
     }
