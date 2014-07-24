@@ -12,7 +12,6 @@ public class CreateMolecule : MonoBehaviour {
   private Compound compound;
   private string compoundId = "";
   private bool enterPressed = false;
-  private bool busy = false;
 
   // Use this for initialization
   void Start () {
