@@ -1,2 +1,2 @@
-*.cs filter=utf16
-resource.h filter=utf16
+# *.cs filter=utf16
+# resource.h filter=utf16

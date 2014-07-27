@@ -1,1 +1,74 @@
-獵湩⁧湕瑩䕹杮湩㭥甊楳杮匠獹整㭭甊楳杮匠獹整⹭潃汬捥楴湯㭳甊楳杮樠⹰祮瑡慬渮慹瑲潯歬瑩挮⹳慭歲牥祳瑳浥਻獵湩⁧灪渮慹汴⹡祮牡潴汯楫⹴獣挮牯㭥甊楳杮丠䅹啒楮祴瑕汩㭳甊楳杮匠獹整⹭佉਻⼊⼯㰠畳浭牡㹹⼊⼯䄠⁒慣敭慲戠桥癡潩牵ਮ⼯ 桔獩猠浡汰⁥桳睯⁳楳灭敬楌整搠浥⹯⼊⼯ㄠ䌮湯敮瑣眠扥慣⁭潴礠畯⁲潣灭瑵牥ਮ⼯ ⸲瑓牡⁴慳灭敬瀠潲牧浡⼊⼯㌠吮歡⁥⁡䠢剉≏洠牡敫⁲湯挠灡畴敲椠慭敧⼊⼯ਠ⼯ ⼼畳浭牡㹹瀊扵楬⁣汣獡⁳剁慃敭慲敂慨楶畯⁲›潍潮敂慨楶畯ੲ੻†牰癩瑡⁥祎剁湕瑩䵹牡敫卲獹整⁭浟㭳 瀠楲慶整丠䅹啒楮祴敗䍢浡张獳਻†牰癩瑡⁥湩⁴業㭤⼯慭歲牥椠੤†牰癩瑡⁥慇敭扏敪瑣张杢灟湡汥਻†潶摩䄠慷敫⤨ 笠 †⼠猯瑥灵甠楮祴眠扥慣੭††敗䍢浡敄楶散嵛搠癥捩獥‽敗䍢浡敔瑸牵⹥敤楶散㭳 †圠扥慃呭硥畴敲眠਻††晩⠠敤楶散⹳敌杮桴㸠〠笩 ††眠渽睥圠扥慃呭硥畴敲ㄨ㠲ⰰ㜠〲‬㔱㬩 ††琠楨⹳獟㵳敮⁷祎剁湕瑩坹扥慃⡭⥷਻†††祎剁慍歲牥祓瑳浥潃普杩挠湯楦⁧‽敮⁷祎剁慍歲牥祓瑳浥潃普杩眨爮煥敵瑳摥楗瑤ⱨ⹷敲畱獥整䡤楥桧⥴਻†††桴獩弮獭渽睥丠䅹啒楮祴慍歲牥祓瑳浥挨湯楦⥧਻†††⼯業㵤桴獩弮獭愮摤剁慍歲牥∨⼮獁敳獴䐯瑡⽡慰瑴栮物≯ㄬⰶ㔲㠬⤰਻†††⼯桔獩氠湩⁥潬摡⁳⁡慭歲牥映潲⁭整瑸牵੥†††業㵤桴獩弮獭愮摤剁慍歲牥⠨敔瑸牵㉥⥄刨獥畯捲獥䰮慯⡤䴢牡敫䡲物≯‬祴数景吨硥畴敲䐲⤩Ⱙ㘱㈬ⰵ〸㬩ਊ†††⼯敳畴⁰慢正牧畯摮 ††琠楨⹳扟彧慰敮㵬慇敭扏敪瑣䘮湩⡤倢慬敮⤢਻†††桴獩弮杢灟湡汥爮湥敤敲⹲慭整楲污洮楡呮硥畴敲眽਻†††桴獩弮獭献瑥剁慂正牧畯摮牔湡晳牯⡭桴獩弮杢灟湡汥琮慲獮潦浲㬩 ††ਠ†††⼯敳畴⁰慣敭慲瀠潲敪瑣潩੮†††桴獩弮獭献瑥剁慃敭慲牐橯捥楴湯琨楨⹳慣敭慲㬩 ††ਠ††敽獬筥 ††䐠扥杵䰮杯牅潲⡲丢⁯敗换浡∮㬩 †素 素 ⼠ 獕⁥桴獩映牯椠楮楴污穩瑡潩੮†潶摩匠慴瑲⠠਩†੻††⼯瑳牡⁴敳獮牯 †琠楨⹳獟⹳瑳牡⡴㬩 素 ⼠ 灕慤整椠⁳慣汬摥漠据⁥数⁲牦浡੥†潶摩唠摰瑡⁥⤨ 笠 †⼠唯摰瑡⁥敓獮畯卲獹整੭††桴獩弮獳甮摰瑡⡥㬩 †⼠唯摰瑡⁥慭歲牥猠獹整⁭祢猠ੳ††桴獩弮獭甮摰瑡⡥桴獩弮獳㬩 †⼠甯摰瑡⁥慇敭扯敪瑣琠慲獮潦浲 †椠⡦桴獩弮獭椮䕳楸瑳慍歲牥洨摩⤩੻†††桴獩弮獭献瑥慍歲牥牔湡晳牯⡭業Ɽ慇敭扏敪瑣䘮湩⡤䴢牡敫佲橢捥≴⸩牴湡晳牯⥭਻†††敄畢⹧潌⡧⭣㨢⬢桴獩弮獭朮瑥潃普摩湥散洨摩⤩਻††敽獬筥 ††⼠䐯扥杵䰮杯挨∫渺瑯映畯摮⤢਻†††⼯栠摩⁥慇敭漠橢捥ੴ†††慇敭扏敪瑣䘮湩⡤䴢牡敫佲橢捥≴⸩牴湡晳牯⹭潬慣偬獯瑩潩㵮敮⁷敖瑣牯⠳ⰰⰰㄭ〰㬩 †素 †挠⬫਻†੽†瑳瑡捩椠瑮挠〽਻੽
+using UnityEngine;
+using System;
+using System.Collections;
+using jp.nyatla.nyartoolkit.cs.markersystem;
+using jp.nyatla.nyartoolkit.cs.core;
+using NyARUnityUtils;
+using System.IO;
+
+/// <summary>
+/// AR camera behaviour.
+/// This sample shows simpleLite demo.
+/// 1.Connect webcam to your computer.
+/// 2.Start sample program
+/// 3.Take a "HIRO" marker on capture image
+/// 
+/// </summary>
+public class ARCameraBehaviour : MonoBehaviour
+{
+  private NyARUnityMarkerSystem _ms;
+  private NyARUnityWebCam _ss;
+  private int mid ;//marker id
+  private GameObject _bg_panel;
+  void Awake()
+  {
+    //setup unity webcam
+    WebCamDevice[] devices= WebCamTexture.devices;
+    WebCamTexture w;
+    if (devices.Length > 0){
+      w=new WebCamTexture(1280, 720, 15);
+      this._ss=new NyARUnityWebCam(w);
+      NyARMarkerSystemConfig config = new NyARMarkerSystemConfig(w.requestedWidth,w.requestedHeight);
+      this._ms=new NyARUnityMarkerSystem(config);
+      //mid=this._ms.addARMarker("./Assets/Data/patt.hiro",16,25,80);
+      //This line loads a marker from texture
+      mid=this._ms.addARMarker((Texture2D)(Resources.Load("MarkerHiro", typeof(Texture2D))),16,25,80);
+
+      //setup background
+      this._bg_panel=GameObject.Find("Plane");
+      this._bg_panel.renderer.material.mainTexture=w;
+      this._ms.setARBackgroundTransform(this._bg_panel.transform);
+      
+      //setup camera projection
+      this._ms.setARCameraProjection(this.camera);
+      
+    }else{
+      Debug.LogError("No Webcam.");
+    }
+  }
+  // Use this for initialization
+  void Start ()
+  {
+    //start sensor
+    this._ss.start();
+  }
+  // Update is called once per frame
+  void Update ()
+  {
+    //Update SensourSystem
+    this._ss.update();
+    //Update marker system by ss
+    this._ms.update(this._ss);
+    //update Gameobject transform
+    if(this._ms.isExistMarker(mid)){
+      this._ms.setMarkerTransform(mid,GameObject.Find("MarkerObject").transform);
+      Debug.Log(c+":"+this._ms.getConfidence(mid));
+    }else{
+      //Debug.Log(c+":not found");
+      // hide Game object
+      GameObject.Find("MarkerObject").transform.localPosition=new Vector3(0,0,-100);
+    }
+    c++;
+  }
+  static int c=0;
+}
