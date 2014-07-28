@@ -43,11 +43,11 @@ public class CreateMolecule : MonoBehaviour {
       Destroy(compound.bondsObject);
       gameObject.transform.position = new Vector3(0, 0, 0);
     }
+    gameObject.transform.position = new Vector3(0, 0, 0);
     JSONNode compoundNode = JSON.Parse(compoundData.text);
     compound = new Compound(compoundNode);
     compound.atomsObject.transform.parent = gameObject.transform;
     compound.bondsObject.transform.parent = gameObject.transform;
-    gameObject.transform.position = new Vector3(0, yAdjust, 0);
   }
 
 }
