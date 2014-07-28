@@ -201,7 +201,7 @@ namespace NyARUnityUtils
 		/// </param>
 		public void getMarkerTransform(int i_id,ref Vector3 o_pos,ref Quaternion o_rotation)
 		{
-			NyARUnityUtil.toCameraViewRH(this.getMarkerMatrix(i_id),1,ref o_pos,ref o_rotation);
+			NyARUnityUtil.toCameraViewRH(this.getMarkerMatrix(i_id),2,ref o_pos,ref o_rotation);
 		}
 		
 		/// <summary>
