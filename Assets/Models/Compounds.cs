@@ -17,6 +17,9 @@ namespace Compounds {
       this.compoundData = compoundData;
       CreateAtoms();
       CreateBonds();
+      atomsObject.transform.position = new Vector3(0, 0, 5);
+      bondsObject.transform.position = new Vector3(0, 0, 5);
+
     }
 
     private void CreateAtoms() {
