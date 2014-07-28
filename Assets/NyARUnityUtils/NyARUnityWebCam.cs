@@ -24,20 +24,20 @@ namespace NyARUnityUtils
 	        base.update(this._raster);
 			this._wtx=i_wtx;
 		}
-	    /**
-	     * This function will start the asynchronous update of JMF.
-	     */
-	    public void stop()
-	    {
-	        this._wtx.Stop();
-	    }
-	    /**
-	     * This function will start the asynchronous update of JMF.
-	     */
-	    public void start()
-	    {
-	        this._wtx.Play();
-	    }
+    /**
+     * This function will start the asynchronous update of JMF.
+     */
+    public void stop()
+    {
+        this._wtx.Stop();
+    }
+    /**
+     * This function will start the asynchronous update of JMF.
+     */
+    public void start()
+    {
+        this._wtx.Play();
+    }
 		/**
 		 * Call this function on update!
 		 */
