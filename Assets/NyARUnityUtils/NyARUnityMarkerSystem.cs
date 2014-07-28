@@ -169,19 +169,20 @@ namespace NyARUnityUtils
 			i_camera.farClipPlane=(float)pp.far;
 			i_camera.fieldOfView=(float)(360*pp.fovy/(2*Math.PI));
 			i_camera.aspect=(float)(pp.aspect);
-			i_camera.transform.LookAt(new Vector3(0,0,0),new Vector3(1,0,0));
+			// i_camera.transform.LookAt(new Vector3(0,0,0),new Vector3(1,0,0));
 		}
 		/// <summary>
 		/// This function sets to transform the member orientation matrix of the background image.
 		/// </summary>
 		public void setARBackgroundTransform(Transform i_transform)
 		{
-			NyARFrustum f=this.getFrustum();
-			NyARFrustum.FrustumParam fp=f.getFrustumParam(new NyARFrustum.FrustumParam());
-			float bg_pos=(float)fp.far;
-			i_transform.position=new Vector3(0,0,(float)bg_pos);
-			double b=bg_pos/fp.near/10;// 10?
-			i_transform.localScale=new Vector3((float)(-(fp.right-fp.left)*b),1f,-(float)((fp.top-fp.bottom)*b));
+			NyARFrustum frustum = this.getFrustum();
+			NyARFrustum.FrustumParam frustumParam = frustum.getFrustumParam(new NyARFrustum.FrustumParam());
+			float bg_pos=(float)frustumParam.far;
+      Debug.Log(bg_pos);
+			i_transform.position=new Vector3(0,0,(float)bg_pos-1000); // -1000 gives us texture from z = -1000 to z = 9000
+			double b=bg_pos/frustumParam.near/10;// 10?
+			i_transform.localScale=new Vector3((float)(-(frustumParam.right-frustumParam.left)*b),1f,-(float)((frustumParam.top-frustumParam.bottom)*b));
 			i_transform.eulerAngles=new Vector3(-90,0,0);
 		}
 		
