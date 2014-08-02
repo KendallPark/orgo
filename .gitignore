@@ -8,4 +8,5 @@ Temp
 *.pidb
 Build
 *.apk
+/Assets/NyARToolkitUnity/
 /builds/
